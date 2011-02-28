@@ -1,7 +1,7 @@
 Hyperdrive
 ==========
 
-(c)2010-2011 Adam Ierymenko [adam.ierymenko@gmail.com]
+(c)2010-2011 Adam Ierymenko [adam.ierymenko@gmail.com]<br>
 Licensed under the BSD License (http://www.opensource.org/licenses/bsd-license)
 
 Hyperdrive is a simple Java library for creating fast arrays indexed by arbitrary numbers of dimensions
